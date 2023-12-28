@@ -1,0 +1,3 @@
+/Users/ssgavrilin/CLionProjects/test_c_task/cmake-build-debug/CMakeFiles/test_c_task.dir
+/Users/ssgavrilin/CLionProjects/test_c_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ssgavrilin/CLionProjects/test_c_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
